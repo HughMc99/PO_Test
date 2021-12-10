@@ -1,0 +1,266 @@
+# French (France) translations for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-08-26 10:31+0200\n"
+"PO-Revision-Date: 2020-02-25 16:39+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr_FR\n"
+"Language-Team: fr_FR <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+msgid "Patient ID"
+msgstr "Patient ID"
+
+msgid "Date of Birth"
+msgstr "Date of Birth"
+
+msgid "Patient Summary"
+msgstr "Patient Summary"
+
+msgid "Sex"
+msgstr "Sex"
+
+msgid "Pacemaker"
+msgstr "Pacemaker"
+
+msgid "Primary Indication"
+msgstr "Primary Indication"
+
+msgid "Medication"
+msgstr "Medication"
+
+msgid "Clinician Summary"
+msgstr "Clinician Summary"
+
+msgid "Analysis by"
+msgstr "Analysis by"
+
+msgid "Institution"
+msgstr "Institution"
+
+msgid "Referred by"
+msgstr "Referred by"
+
+msgid "Interpreted by"
+msgstr "Interpreted by"
+
+msgid "Ordered by"
+msgstr "Ordered by"
+
+msgid "Report Summary"
+msgstr "Report Summary"
+
+msgid "Recording Length"
+msgstr "Recording Length"
+
+msgid "Analysis Length"
+msgstr "Analysis Length"
+
+msgid "Date of Analysis"
+msgstr "Date of Analysis"
+
+msgid "Noise Burden"
+msgstr "Noise Burden"
+
+msgid "Device ID"
+msgstr "Device ID"
+
+msgid "Heart Rate"
+msgstr "Heart Rate"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Average"
+msgstr "Average"
+
+msgid "Ectopics"
+msgstr "Ectopics"
+
+msgid "Premature Supraventricular Complexes"
+msgstr "Premature Supraventricular Complexes"
+
+msgid "PSVC Count"
+msgstr "PSVC Count"
+
+msgid "Isolated Count"
+msgstr "Isolated Count"
+
+msgid "Couplets"
+msgstr "Couplets"
+
+msgid "Premature Ventricular Complexes"
+msgstr "Premature Ventricular Complexes"
+
+msgid "PVC Count"
+msgstr "PVC Count"
+
+msgid "Morphologies"
+msgstr "Morphologies"
+
+msgid "Bigeminy"
+msgstr "Bigeminy"
+
+msgid "Trigeminy"
+msgstr "Trigeminy"
+
+msgid "Patient Events"
+msgstr "Patient Events"
+
+msgid "Count"
+msgstr "Count"
+
+msgid "Paced Beats"
+msgstr "Paced Beats"
+
+msgid "Signature"
+msgstr "Signature"
+
+msgid "Technician Findings"
+msgstr "Technician Findings"
+
+msgid "Technician Findings continued on page 2"
+msgstr "Technician Findings continued on page 2"
+
+msgid "Physician Findings"
+msgstr "Physician Findings"
+
+msgid "Findings"
+msgstr "Findings"
+
+msgid "Findings continued on page 2"
+msgstr "Findings continued on page 2"
+
+msgid "Technician Findings (continued)"
+msgstr "Technician Findings (continued)"
+
+msgid "Findings (continued)"
+msgstr "Findings (continued)"
+
+msgid "Heart Rate Trend"
+msgstr "Heart Rate Trend"
+
+msgid "Min HR"
+msgstr "Min HR"
+
+msgid "Max HR"
+msgstr "Max HR"
+
+msgid "Avg HR"
+msgstr "Avg HR"
+
+msgid "Bradycardia Episode Count"
+msgstr "Bradycardia Episode Count"
+
+msgid "Tachycardia Episode Count"
+msgstr "Tachycardia Episode Count"
+
+msgid "Atrial Fibrillation / Flutter Hourly Burden"
+msgstr "Atrial Fibrillation / Flutter Hourly Burden"
+
+msgid "Burden"
+msgstr "Burden"
+
+msgid "Longest Episode"
+msgstr "Longest Episode"
+
+msgid "PSVC Hourly Burden"
+msgstr "PSVC Hourly Burden"
+
+msgid "PVC Hourly Burden"
+msgstr "PVC Hourly Burden"
+
+msgid "No. of Morphologies"
+msgstr "No. of Morphologies"
+
+msgid "HR and Ectopic Beats Table"
+msgstr "HR and Ectopic Beats Table"
+
+msgid "Time Ending"
+msgstr "Time Ending"
+
+msgid "Min HR (bpm)"
+msgstr "Min HR (bpm)"
+
+msgid "Avg HR (bpm)"
+msgstr "Avg HR (bpm)"
+
+msgid "Max HR (bpm)"
+msgstr "Max HR (bpm)"
+
+msgid "PSVC Burden (%)"
+msgstr "PSVC Burden (%)"
+
+msgid "PVC Burden (%)"
+msgstr "PVC Burden (%)"
+
+msgid "Ventricular Morphology Analysis"
+msgstr "Ventricular Morphology Analysis"
+
+msgid "Morphology"
+msgstr "Morphology"
+
+msgid "Beat Count"
+msgstr "Beat Count"
+
+msgid "of PVCs"
+msgstr "of PVCs"
+
+msgid "Morphology #"
+msgstr "Morphology #"
+
+msgid "No PVCs found in the study"
+msgstr "No PVCs found in the study"
+
+msgid "Patient Symptoms"
+msgstr "Patient Symptoms"
+
+msgid "Total Patient Events"
+msgstr "Total Patient Events"
+
+msgid "Heart Rate Variability"
+msgstr "Heart Rate Variability"
+
+msgid "Mean"
+msgstr "Mean"
+
+msgid "SDNN"
+msgstr "SDNN"
+
+msgid "SDANN"
+msgstr "SDANN"
+
+msgid "ASDNN"
+msgstr "ASDNN"
+
+msgid "NN50"
+msgstr "NN50"
+
+msgid "pNN50"
+msgstr "pNN50"
+
+msgid "RMSSD"
+msgstr "RMSSD"
+
+msgid "VLF"
+msgstr "VLF"
+
+msgid "LF"
+msgstr "LF"
+
+msgid "HF"
+msgstr "HF"
+
