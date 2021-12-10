@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: Hugh_PO_File\n"
+"PO-Revision-Date: 2021-12-10 13:10\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: nl_NL\n"
+
+#, fuzzy
+msgid "Patient ID"
+msgstr "Identifiant patient"
+
+#, fuzzy
+msgid "Date of Birth"
+msgstr "Date de naissance"
+
+#, fuzzy
+msgid "Patient Summary"
+msgstr "Informations patient"
+
+#, fuzzy
+msgid "Sex"
+msgstr "Sexe"
+
+#, fuzzy
+msgid "Pacemaker"
+msgstr "Stimulateur cardiaque"
+
+#, fuzzy
+msgid "Primary Indication"
+msgstr "Indication"
+
+#, fuzzy
+msgid "Medication"
+msgstr "Médicaments"
+
+#, fuzzy
+msgid "Clinician Summary"
+msgstr "Informations médecin"
+
+#, fuzzy
+msgid "Analysis by"
+msgstr "Analysé par"
+
+#, fuzzy
+msgid "Institution"
+msgstr "Nom du centre"
+
+#, fuzzy
+msgid "Referred by"
+msgstr "Adressé par"
+
+#, fuzzy
+msgid "Interpreted by"
+msgstr "Interprété par"
+
+#, fuzzy
+msgid "Ordered by"
+msgstr "Prescrit par"
+
+#, fuzzy
+msgid "Report Summary"
+msgstr "Résumé du rapport"
+
+#, fuzzy
+msgid "Recording Length"
+msgstr "Durée d'enregistrement"
+
+#, fuzzy
+msgid "Analysis Length"
+msgstr "Durée analysable"
+
+#, fuzzy
+msgid "Date of Analysis"
+msgstr "Date de l'analyse"
+
+#, fuzzy
+msgid "Noise Burden"
+msgstr "Charge de bruit"
+
+#, fuzzy
+msgid "Device ID"
+msgstr "Identifiant du dispositif"
+
+#, fuzzy
+msgid "Heart Rate"
+msgstr "Fréquence cardiaque"
+
+#, fuzzy
+msgid "Max"
+msgstr "Max"
+
+#, fuzzy
+msgid "Min"
+msgstr "Min"
+
+#, fuzzy
+msgid "Average"
+msgstr "Moyenne"
+
+#, fuzzy
+msgid "Ectopics"
+msgstr "Extrasystoles"
+
+#, fuzzy
+msgid "Premature Supraventricular Complexes"
+msgstr "Extrasystoles atriales"
+
+#, fuzzy
+msgid "PSVC Count"
+msgstr "Nbre d'ESA"
+
+#, fuzzy
+msgid "Isolated Count"
+msgstr "Isolées"
+
+#, fuzzy
+msgid "Couplets"
+msgstr "Doublets"
+
+#, fuzzy
+msgid "Premature Ventricular Complexes"
+msgstr "Extrasystoles ventriculaires"
+
+#, fuzzy
+msgid "PVC Count"
+msgstr "Nbre d'ESV"
+
+#, fuzzy
+msgid "Morphologies"
+msgstr "Morphologies"
+
+#, fuzzy
+msgid "Bigeminy"
+msgstr "Bigéminées"
+
+#, fuzzy
+msgid "Trigeminy"
+msgstr "Trigéminées"
+
+#, fuzzy
+msgid "Patient Events"
+msgstr "Événements patient"
+
+#, fuzzy
+msgid "Count"
+msgstr "Nombre"
+
+#, fuzzy
+msgid "Paced Beats"
+msgstr "Battements stimulés"
+
+#, fuzzy
+msgid "Signature"
+msgstr "Signature"
+
+#, fuzzy
+msgid "Technician Findings"
+msgstr "Conclusion du technicien"
+
+#, fuzzy
+msgid "Technician Findings continued on page 2"
+msgstr "Suite de la conclusion du technicien en page 2"
+
+#, fuzzy
+msgid "Physician Findings"
+msgstr "Conclusion du médecin"
+
+#, fuzzy
+msgid "Findings"
+msgstr "Conclusion"
+
+#, fuzzy
+msgid "Findings continued on page 2"
+msgstr "Suite de la conclusion en page 2"
+
+#, fuzzy
+msgid "Technician Findings (continued)"
+msgstr "Conclusion du technicien (suite)"
+
+#, fuzzy
+msgid "Findings (continued)"
+msgstr "Conclusion (suite)"
+
+#, fuzzy
+msgid "Heart Rate Trend"
+msgstr "Tendance de la fréquence cardiaque"
+
+#, fuzzy
+msgid "Min HR"
+msgstr "FC min"
+
+#, fuzzy
+msgid "Max HR"
+msgstr "FC max"
+
+#, fuzzy
+msgid "Avg HR"
+msgstr "FC moy"
+
+#, fuzzy
+msgid "Bradycardia Episode Count"
+msgstr "Épisodes de bradycardie"
+
+#, fuzzy
+msgid "Tachycardia Episode Count"
+msgstr "Épisodes de tachycardie"
+
+#, fuzzy
+msgid "Atrial Fibrillation / Flutter Hourly Burden"
+msgstr "Charge horaire de fibrillation atriale/flutter"
+
+#, fuzzy
+msgid "Burden"
+msgstr "Charge"
+
+#, fuzzy
+msgid "Longest Episode"
+msgstr "Épisode le plus long"
+
+#, fuzzy
+msgid "PSVC Hourly Burden"
+msgstr "Charge horaire d'ESA"
+
+#, fuzzy
+msgid "PVC Hourly Burden"
+msgstr "Charge horaire d'ESV"
+
+#, fuzzy
+msgid "No. of Morphologies"
+msgstr "Nbre de morphologies"
+
+#, fuzzy
+msgid "HR and Ectopic Beats Table"
+msgstr "Tableau des FC et des extrasystoles"
+
+#, fuzzy
+msgid "Time Ending"
+msgstr "Tranche horaire"
+
+#, fuzzy
+msgid "Min HR (bpm)"
+msgstr "FC min (bpm)"
+
+#, fuzzy
+msgid "Avg HR (bpm)"
+msgstr "FC moy (bpm)"
+
+#, fuzzy
+msgid "Max HR (bpm)"
+msgstr "FC max (bpm)"
+
+#, fuzzy
+msgid "PSVC Burden (%)"
+msgstr "Charge d'ESA (%)"
+
+#, fuzzy
+msgid "PVC Burden (%)"
+msgstr "Charge d'ESV (%)"
+
+#, fuzzy
+msgid "Ventricular Morphology Analysis"
+msgstr "Analyse morphologique des ESV"
+
+#, fuzzy
+msgid "Morphology"
+msgstr "Morphologie"
+
+#, fuzzy
+msgid "Beat Count"
+msgstr "Nbre de battements"
+
+#, fuzzy
+msgid "of PVCs"
+msgstr "des ESV"
+
+#, fuzzy
+msgid "Morphology #"
+msgstr "Morphologie N°"
+
+#, fuzzy
+msgid "No PVCs found in the study"
+msgstr "Pas d'ESV retrouvée dans l'examen"
+
+#, fuzzy
+msgid "Patient Symptoms"
+msgstr "Symptômes patient"
+
+#, fuzzy
+msgid "Total Patient Events"
+msgstr "Total des événements patient"
+
+#, fuzzy
+msgid "Heart Rate Variability"
+msgstr "Variabilité de la fréquence cardiaque"
+
+#, fuzzy
+msgid "Mean"
+msgstr "Moyenne"
+
+#, fuzzy
+msgid "SDNN"
+msgstr "SDNN"
+
+#, fuzzy
+msgid "SDANN"
+msgstr ""
+
+#, fuzzy
+msgid "ASDNN"
+msgstr ""
+
+#, fuzzy
+msgid "NN50"
+msgstr "NN50"
+
+#, fuzzy
+msgid "pNN50"
+msgstr ""
+
+#, fuzzy
+msgid "RMSSD"
+msgstr ""
+
+#, fuzzy
+msgid "VLF"
+msgstr ""
+
+#, fuzzy
+msgid "LF"
+msgstr ""
+
+#, fuzzy
+msgid "HF"
+msgstr ""

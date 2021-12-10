@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-08-26 10:31+0200\n"
+"PO-Revision-Date: 2020-02-25 16:39+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr_FR\n"
+"Language-Team: fr_FR <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#, fuzzy
+msgid "Patient ID"
+msgstr "Patient ID"
+
+#, fuzzy
+msgid "Date of Birth"
+msgstr "Date of Birth"
+
+#, fuzzy
+msgid "Patient Summary"
+msgstr "Patient Summary"
+
+#, fuzzy
+msgid "Sex"
+msgstr "Sex"
+
+#, fuzzy
+msgid "Pacemaker"
+msgstr "Pacemaker"
+
+#, fuzzy
+msgid "Primary Indication"
+msgstr "Primary Indication"
+
+#, fuzzy
+msgid "Medication"
+msgstr "Medication"
+
+#, fuzzy
+msgid "Clinician Summary"
+msgstr "Clinician Summary"
+
+#, fuzzy
+msgid "Analysis by"
+msgstr "Analysis by"
+
+#, fuzzy
+msgid "Institution"
+msgstr "Institution"
+
+#, fuzzy
+msgid "Referred by"
+msgstr "Referred by"
+
+#, fuzzy
+msgid "Interpreted by"
+msgstr "Interpreted by"
+
+#, fuzzy
+msgid "Ordered by"
+msgstr "Ordered by"
+
+#, fuzzy
+msgid "Report Summary"
+msgstr "Report Summary"
+
+#, fuzzy
+msgid "Recording Length"
+msgstr "Recording Length"
+
+#, fuzzy
+msgid "Analysis Length"
+msgstr "Analysis Length"
+
+#, fuzzy
+msgid "Date of Analysis"
+msgstr "Date of Analysis"
+
+#, fuzzy
+msgid "Noise Burden"
+msgstr "Noise Burden"
+
+#, fuzzy
+msgid "Device ID"
+msgstr "Device ID"
+
+#, fuzzy
+msgid "Heart Rate"
+msgstr "Heart Rate"
+
+#, fuzzy
+msgid "Max"
+msgstr "Max"
+
+#, fuzzy
+msgid "Min"
+msgstr "Min"
+
+#, fuzzy
+msgid "Average"
+msgstr "Average"
+
+#, fuzzy
+msgid "Ectopics"
+msgstr "Ectopics"
+
+#, fuzzy
+msgid "Premature Supraventricular Complexes"
+msgstr "Premature Supraventricular Complexes"
+
+#, fuzzy
+msgid "PSVC Count"
+msgstr "PSVC Count"
+
+#, fuzzy
+msgid "Isolated Count"
+msgstr "Isolated Count"
+
+#, fuzzy
+msgid "Couplets"
+msgstr "Couplets"
+
+#, fuzzy
+msgid "Premature Ventricular Complexes"
+msgstr "Premature Ventricular Complexes"
+
+#, fuzzy
+msgid "PVC Count"
+msgstr "PVC Count"
+
+#, fuzzy
+msgid "Morphologies"
+msgstr "Morphologies"
+
+#, fuzzy
+msgid "Bigeminy"
+msgstr "Bigeminy"
+
+#, fuzzy
+msgid "Trigeminy"
+msgstr "Trigeminy"
+
+#, fuzzy
+msgid "Patient Events"
+msgstr "Patient Events"
+
+#, fuzzy
+msgid "Count"
+msgstr "Count"
+
+#, fuzzy
+msgid "Paced Beats"
+msgstr "Paced Beats"
+
+#, fuzzy
+msgid "Signature"
+msgstr "Signature"
+
+#, fuzzy
+msgid "Technician Findings"
+msgstr "Technician Findings"
+
+#, fuzzy
+msgid "Technician Findings continued on page 2"
+msgstr "Technician Findings continued on page 2"
+
+#, fuzzy
+msgid "Physician Findings"
+msgstr "Physician Findings"
+
+#, fuzzy
+msgid "Findings"
+msgstr "Findings"
+
+#, fuzzy
+msgid "Findings continued on page 2"
+msgstr "Findings continued on page 2"
+
+#, fuzzy
+msgid "Technician Findings (continued)"
+msgstr "Technician Findings (continued)"
+
+#, fuzzy
+msgid "Findings (continued)"
+msgstr "Findings (continued)"
+
+#, fuzzy
+msgid "Heart Rate Trend"
+msgstr "Heart Rate Trend"
+
+#, fuzzy
+msgid "Min HR"
+msgstr "Min HR"
+
+#, fuzzy
+msgid "Max HR"
+msgstr "Max HR"
+
+#, fuzzy
+msgid "Avg HR"
+msgstr "Avg HR"
+
+#, fuzzy
+msgid "Bradycardia Episode Count"
+msgstr "Bradycardia Episode Count"
+
+#, fuzzy
+msgid "Tachycardia Episode Count"
+msgstr "Tachycardia Episode Count"
+
+#, fuzzy
+msgid "Atrial Fibrillation / Flutter Hourly Burden"
+msgstr "Atrial Fibrillation / Flutter Hourly Burden"
+
+#, fuzzy
+msgid "Burden"
+msgstr "Burden"
+
+#, fuzzy
+msgid "Longest Episode"
+msgstr "Longest Episode"
+
+#, fuzzy
+msgid "PSVC Hourly Burden"
+msgstr "PSVC Hourly Burden"
+
+#, fuzzy
+msgid "PVC Hourly Burden"
+msgstr "PVC Hourly Burden"
+
+#, fuzzy
+msgid "No. of Morphologies"
+msgstr "No. of Morphologies"
+
+#, fuzzy
+msgid "HR and Ectopic Beats Table"
+msgstr "HR and Ectopic Beats Table"
+
+#, fuzzy
+msgid "Time Ending"
+msgstr "Time Ending"
+
+#, fuzzy
+msgid "Min HR (bpm)"
+msgstr "Min HR (bpm)"
+
+#, fuzzy
+msgid "Avg HR (bpm)"
+msgstr "Avg HR (bpm)"
+
+#, fuzzy
+msgid "Max HR (bpm)"
+msgstr "Max HR (bpm)"
+
+#, fuzzy
+msgid "PSVC Burden (%)"
+msgstr "PSVC Burden (%)"
+
+#, fuzzy
+msgid "PVC Burden (%)"
+msgstr "PVC Burden (%)"
+
+#, fuzzy
+msgid "Ventricular Morphology Analysis"
+msgstr "Ventricular Morphology Analysis"
+
+#, fuzzy
+msgid "Morphology"
+msgstr "Morphology"
+
+#, fuzzy
+msgid "Beat Count"
+msgstr "Beat Count"
+
+#, fuzzy
+msgid "of PVCs"
+msgstr "of PVCs"
+
+#, fuzzy
+msgid "Morphology #"
+msgstr "Morphology #"
+
+#, fuzzy
+msgid "No PVCs found in the study"
+msgstr "No PVCs found in the study"
+
+#, fuzzy
+msgid "Patient Symptoms"
+msgstr "Patient Symptoms"
+
+#, fuzzy
+msgid "Total Patient Events"
+msgstr "Total Patient Events"
+
+#, fuzzy
+msgid "Heart Rate Variability"
+msgstr "Heart Rate Variability"
+
+#, fuzzy
+msgid "Mean"
+msgstr "Mean"
+
+#, fuzzy
+msgid "SDNN"
+msgstr "SDNN"
+
+#, fuzzy
+msgid "SDANN"
+msgstr "SDANN"
+
+#, fuzzy
+msgid "ASDNN"
+msgstr "ASDNN"
+
+#, fuzzy
+msgid "NN50"
+msgstr "NN50"
+
+#, fuzzy
+msgid "pNN50"
+msgstr "pNN50"
+
+#, fuzzy
+msgid "RMSSD"
+msgstr "RMSSD"
+
+#, fuzzy
+msgid "VLF"
+msgstr "VLF"
+
+#, fuzzy
+msgid "LF"
+msgstr "LF"
+
+#, fuzzy
+msgid "HF"
+msgstr "HF"
